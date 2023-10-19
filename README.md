@@ -13,7 +13,7 @@ style="width: 650px; max-width: 100%; height: auto" title="Login Screen" />
 ![Login Image](https://drive.google.com/uc?export=view&id=1ii3qPurVeAjZ0eNESSMJZ9YeJW9qaTQB)
 
 ### Registration Screen Team C
-![registration image](https://drive.google.com/uc?export=view&id=1smegiPrehf4qx0Fa443EaOJxcG7cnurD/view?usp=share_link)
+![registration image](https://drive.google.com/uc?export=view&id=1smegiPrehf4qx0Fa443EaOJxcG7cnurD)
 
 ### Home Screen Team A
 ![home screen](https://drive.google.com/uc?export=view&id=14d2BuCUWyD7x50KEI9PpY5ZaKlZ5RhgI)
