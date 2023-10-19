@@ -6,4 +6,6 @@ Firebase Meetup App
 
  To Build an Event and Guestchat App supports Android,ios,Web.
 
-![https://drive.google.com/file/d/1ii3qPurVeAjZ0eNESSMJZ9YeJW9qaTQB/view?usp=share_link]
+
+
+<a href="https://drive.google.com/uc?export=view&id=1ii3qPurVeAjZ0eNESSMJZ9YeJW9qaTQB"><img src="https://drive.google.com/uc?export=view&id=<1ii3qPurVeAjZ0eNESSMJZ9YeJW9qaTQB>" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
