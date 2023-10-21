@@ -21,3 +21,6 @@ style="width: 650px; max-width: 100%; height: auto" title="Login Screen" />
 ### Logout Screen Team B
 ![logout screen](https://drive.google.com/uc?export=view&id=1y6QhAbVboJNoQGmSYBfw_z7aatKjosnX)
 
+### Logout Screen Link that we have completed
+![logout screen](https://github.com/SubbarayuduC/logout_screen.git)
+
