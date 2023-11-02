@@ -13,11 +13,12 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           title: Text('Firebase Meetup'),
           centerTitle: true,
+            backgroundColor: Colors.purple,
         ),
         body: Column(
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: <Widget>[
-            Image.asset('images/tig.jpg', fit: BoxFit.cover, height: 250),
+            Image.asset('images/meeting.jpg', fit: BoxFit.cover, height: 250),
 
             SizedBox(height: 20),
 
@@ -46,7 +47,7 @@ class MyApp extends StatelessWidget {
               child: Row(
                 children: [
                   Icon(
-                    Icons.school,
+                    Icons.business,
                     size: 20,
                   ),
                   SizedBox(width: 10),
@@ -63,7 +64,7 @@ class MyApp extends StatelessWidget {
 
 
             Padding(
-              padding: const EdgeInsets.symmetric(horizontal: 20),
+              padding: const EdgeInsets.symmetric(horizontal: 40),
               child: Row(
                 children: [
                   Container(
@@ -76,6 +77,9 @@ class MyApp extends StatelessWidget {
                       style: ElevatedButton.styleFrom(
                         primary: Colors.white,
                         onPrimary: Colors.black,
+                        side: BorderSide(
+                          color: Colors.purple,
+                        ),
                       ),
                       child: Text('RSVP', style: TextStyle(fontSize: 16)),
                     ),
@@ -89,7 +93,7 @@ class MyApp extends StatelessWidget {
 
             Divider(
               color: Colors.grey,
-              thickness: 1,
+              thickness: 2,
               height: 0,
               indent: 1,
               endIndent: 1,
@@ -108,7 +112,7 @@ class MyApp extends StatelessWidget {
 
             SizedBox(height: 20),
 
-            // Text with padding
+
             Padding(
               padding: const EdgeInsets.symmetric(horizontal: 20),
               child: Text(
