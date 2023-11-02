@@ -33,7 +33,7 @@ class HomePage extends StatelessWidget{
       ),
       body: Column(
           children: [
-            Image.asset('images/meetup.png',
+            Image.asset('images/firebase.png',
               fit: BoxFit.fill,
               width: 420,
 
