@@ -14,6 +14,7 @@ class MyApp extends StatelessWidget{
           colorScheme: ColorScheme.fromSwatch()
               .copyWith(
               primary: Colors.deepPurple
+
           )
       ),
       home:  const HomePage(),
@@ -32,7 +33,7 @@ class HomePage extends StatelessWidget{
       ),
       body: Column(
           children: [
-            Image.asset('images/fire.png',
+            Image.asset('images/meetup.png',
               fit: BoxFit.fill,
               width: 420,
 
