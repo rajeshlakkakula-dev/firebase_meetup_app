@@ -44,25 +44,25 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCo0mCiBe0kgk1O2n_H0felODcZAJOfuH4',
-    appId: '1:514341932122:web:6be777f1baffa512945c63',
-    messagingSenderId: '514341932122',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'meetup-flutter-app',
     authDomain: 'meetup-flutter-app.firebaseapp.com',
     storageBucket: 'meetup-flutter-app.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBMvA1Pdc1O7YDDjDKAKnFgqX3rnm6-Wwc',
-    appId: '1:514341932122:android:6fc5dc1946db080e945c63',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '514341932122',
     projectId: 'meetup-flutter-app',
     storageBucket: 'meetup-flutter-app.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCvy0i0T26Vrcrf9K0kP8oM-rmlbCf6keY',
-    appId: '1:514341932122:ios:906c03fd7144d9bb945c63',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '514341932122',
     projectId: 'meetup-flutter-app',
     storageBucket: 'meetup-flutter-app.appspot.com',
@@ -71,8 +71,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCvy0i0T26Vrcrf9K0kP8oM-rmlbCf6keY',
-    appId: '1:514341932122:ios:73a47b435319c5a5945c63',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '514341932122',
     projectId: 'meetup-flutter-app',
     storageBucket: 'meetup-flutter-app.appspot.com',
